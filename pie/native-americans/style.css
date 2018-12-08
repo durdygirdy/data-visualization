@@ -1,0 +1,94 @@
+#legend {
+    
+    width: 300px;
+    position: relative;
+    left: 650px;
+    bottom: 400px;
+    padding-left: 50px;
+    
+    
+}
+
+
+#associates {
+    
+    
+    position: relative;
+    right: 18px;
+    bottom: 90px;
+    
+}
+
+#bachelors {
+    
+    
+    position: relative;
+    right: 32px;
+    bottom: 70px;
+    
+}
+
+
+#masters {
+    
+    
+    position: relative;
+    right: 47px;
+    bottom: 50px;
+    
+}
+
+
+#professional {
+    
+    
+    position: relative;
+    right: 61px;
+    bottom: 25px;
+    
+}
+
+
+
+.para {
+    
+    position: relative;
+    left: 30px;
+    top: 10px;
+    width: 1000px;
+  
+}
+
+
+.header {
+
+    position: relative;
+    bottom: 30px;
+    left: 70px;
+    width: 550px;
+    
+    
+}
+
+
+.footer  {
+    
+    position: relative;
+    bottom: 80px;
+    width: 500px;
+     
+}
+
+
+
+
+
+.container-pies {
+    
+    position: relative;
+    top: 100px;
+    left: 300px;
+    width: 1000px;
+    
+    
+}
